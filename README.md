@@ -36,7 +36,7 @@ GIF created with ...
 
 ## Notes
 
-No challenges accountered.
+No challenges.
 
 ## License
 
