@@ -56,6 +56,7 @@ function addGamesToPage(games) {
   });
 }
 
+addGamesToPage(GAMES_JSON);
 // Testing purposes:
 // function tester() {
 //   const working = document.createElement("h1");
