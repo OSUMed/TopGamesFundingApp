@@ -1,4 +1,4 @@
-# WEB102 Prework - TopGamesOSU
+# TopGamesOSU
 
 Submitted by: Srikanth Medicherla
 
